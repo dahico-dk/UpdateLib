@@ -1,0 +1,10 @@
+C:\Users\Daghan.Kaban\source\repos\Updlib SA\AutoUpdate\bin\Debug\XMLMailAutoUpdate.exe.config
+C:\Users\Daghan.Kaban\source\repos\Updlib SA\AutoUpdate\bin\Debug\XMLMailAutoUpdate.exe
+C:\Users\Daghan.Kaban\source\repos\Updlib SA\AutoUpdate\bin\Debug\XMLMailAutoUpdate.pdb
+C:\Users\Daghan.Kaban\source\repos\Updlib SA\AutoUpdate\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+C:\Users\Daghan.Kaban\source\repos\Updlib SA\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+C:\Users\Daghan.Kaban\source\repos\Updlib SA\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+C:\Users\Daghan.Kaban\source\repos\Updlib SA\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+C:\Users\Daghan.Kaban\source\repos\Updlib SA\AutoUpdate\obj\Debug\AutoUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Daghan.Kaban\source\repos\Updlib SA\AutoUpdate\obj\Debug\XMLMailAutoUpdate.exe
+C:\Users\Daghan.Kaban\source\repos\Updlib SA\AutoUpdate\obj\Debug\XMLMailAutoUpdate.pdb

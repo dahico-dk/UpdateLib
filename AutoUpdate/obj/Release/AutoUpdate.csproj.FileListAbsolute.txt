@@ -1,0 +1,10 @@
+C:\Users\Daghan.Kaban\source\repos\XMLMailWF\AutoUpdate\bin\Release\XMLMailAutoUpdate.exe.config
+C:\Users\Daghan.Kaban\source\repos\XMLMailWF\AutoUpdate\bin\Release\XMLMailAutoUpdate.exe
+C:\Users\Daghan.Kaban\source\repos\XMLMailWF\AutoUpdate\bin\Release\XMLMailAutoUpdate.pdb
+C:\Users\Daghan.Kaban\source\repos\XMLMailWF\AutoUpdate\obj\Release\AutoUpdate.csprojResolveAssemblyReference.cache
+C:\Users\Daghan.Kaban\source\repos\XMLMailWF\AutoUpdate\obj\Release\AutoUpdate.Form1.resources
+C:\Users\Daghan.Kaban\source\repos\XMLMailWF\AutoUpdate\obj\Release\AutoUpdate.Properties.Resources.resources
+C:\Users\Daghan.Kaban\source\repos\XMLMailWF\AutoUpdate\obj\Release\AutoUpdate.csproj.GenerateResource.Cache
+C:\Users\Daghan.Kaban\source\repos\XMLMailWF\AutoUpdate\obj\Release\AutoUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Daghan.Kaban\source\repos\XMLMailWF\AutoUpdate\obj\Release\XMLMailAutoUpdate.exe
+C:\Users\Daghan.Kaban\source\repos\XMLMailWF\AutoUpdate\obj\Release\XMLMailAutoUpdate.pdb
