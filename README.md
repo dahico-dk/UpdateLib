@@ -1,5 +1,5 @@
 # UpdateLib
-UpdateLib is a mini-project for downloading and unpacking downloaded packages. 
+UpdateLib is a mini-project for downloading and unpacking downloaded packages for simple distribution. 
 
 The project resides in AutoUpdate/Form1.cs path. The necessary paths should be filled at app.config file for updating process.
 
