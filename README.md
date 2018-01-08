@@ -1,7 +1,9 @@
 # UpdateLib
 UpdateLib is a mini-project for downloading and unpacking downloaded packages for simple distribution. 
 
-The project resides in AutoUpdate/Form1.cs path. The necessary paths should be filled at app.config file for updating process.
+The project resides in AutoUpdate/Form1.cs path. The project is build as a invisible windows form app for convenience
+
+The necessary paths should be filled at app.config file for updating process.
 
 updatepath: The path of update files.
 
